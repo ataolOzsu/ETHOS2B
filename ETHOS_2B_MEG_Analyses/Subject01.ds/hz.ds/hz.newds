@@ -1,0 +1,17 @@
+// 
+// These parameters will appear in the new dataset.
+// 
+NewDatasetFields
+{
+	site:	
+	system:	
+	institute:	
+	protocol:	/opt/ctf/hardware/M016/M017_1706.hz.rp
+	purpose:	
+	keywords:	
+	coefsName:	/opt/ctf/hardware/M016/M017_1706.coef
+	sensName:	/opt/ctf/hardware/M016/M017_1706.sens
+	appName:	
+	systemType:	cmeg
+	bandwidth:	0.000000, 300.000000
+}
